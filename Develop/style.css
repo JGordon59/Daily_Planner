@@ -1,0 +1,35 @@
+*:focus {
+  outline: none !important;
+}
+
+body {
+  font-family: 'Silkscreen', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+textarea {
+  background: transparent;
+  width: 100%;
+  border: none;
+  resize: none;
+  color: #000000;
+  background:#dddddd;
+  padding: 10px;
+}
+
+.hour {
+  font-weight: 900;
+}
+
+.past {
+  background-color: rgb(126, 118, 118);
+}
+
+.present {
+  background-color:rgb(14, 186, 233)
+}
+
+.future {
+  background-color:rgb(149, 62, 226)
+}
